@@ -1,14 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="87665336-e40d-4e0b-abe9-5c0985758f89" name="Changes" comment="" />
+    <list default="true" id="87665336-e40d-4e0b-abe9-5c0985758f89" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CostComputation/CostCompute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CostComputation/CostComputeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CostComputation/FourWheelerCostCompute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CostComputation/HourlyPricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CostComputation/MinutePricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CostComputation/PricingStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CostComputation/TwoWheelerCostCompute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingLot/EntranceGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingLot/ExitGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingLot/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingLot/ParkingSpotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingLot/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingLot/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingLot/VehicleType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JjVG2NBuy7g6f1LXzbTdvGd74P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,6 +53,25 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CostComputation" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ParkingLotLLD" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
